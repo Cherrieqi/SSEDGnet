@@ -101,6 +101,18 @@ data/raw
 
 
 
+**NOTE:**
+
+​       Training and test data can be generated via *data_gen_xxxxx.py* respectively. Where *_H1318* indicates that the source domains are H13 and H18 and *_PUPC* indicates that the source domains are PU and PC.
+
+##### · Train
+
+​       Run *train_xxxx.py*. 
+
+##### · Test
+
+​       Run *te_xxxx.py*. 
+
 
 
 
