@@ -45,10 +45,11 @@ This code is based on **Python 3.10** and **Pytorch 1.12**.
 
 
 
+## Getting start:
 
-Getting start:
-· Dataset structure
+##### · Dataset structure
 
+```
 data/H1318
 ├── gen_H13
 │   ├── img.npy
@@ -62,7 +63,10 @@ data/H1318
 └── gen_PU
      ├── img.npy
      └── gt.npy
-     
+```
+
+
+```
 data/PUPC
 ├── gen_PU
 │   ├── img.npy
@@ -76,7 +80,10 @@ data/PUPC
 └── gen_H18
      ├── img.npy
      └── gt.npy
-     
+```
+
+
+```     
 data/raw
 ├── Houston2013
 │   ├── Houston.mat
@@ -90,7 +97,7 @@ data/raw
 └── PaviaU
      ├── paviaU.mat
      └── paviaU_gt.mat
-
+```
 
 
 
